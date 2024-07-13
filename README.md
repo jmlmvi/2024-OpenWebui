@@ -1,6 +1,3 @@
-Je vais refaire le `README.md` en évitant les erreurs de formatage liées aux backticks. Voici la version corrigée :
-
-```markdown
 # OpenWebUI & Ollama avec Tunnel Cloudflare
 
 Ce projet configure OpenWebUI et Ollama en utilisant Docker, avec un accès sécurisé via un Tunnel Cloudflare.
